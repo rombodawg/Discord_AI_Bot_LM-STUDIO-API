@@ -1,0 +1,1 @@
+(add your discord bot token here and delete this text, keep this token private)
